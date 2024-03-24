@@ -1,0 +1,1021 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix ns2: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns3: <http://wikiba.se/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q16146608> rdfs:label "Destruction of Shia mosques during the 2011 Bahraini uprising" .
+
+<http://www.wikidata.org/entity/Q19429010> rdfs:label "2014 Odessa clashes" .
+
+ns1:P10283 rdfs:label "OpenAlex ID"^^xsd:string .
+
+ns1:P1101 rdfs:label "floors above ground"^^xsd:string .
+
+ns1:P1120 rdfs:label "number of deaths"^^xsd:string .
+
+ns1:P1151 rdfs:label "topic's main Wikimedia portal"^^xsd:string .
+
+ns1:P1245 rdfs:label "OmegaWiki Defined Meaning"^^xsd:string .
+
+ns1:P1282 rdfs:label "OpenStreetMap tag or key"^^xsd:string .
+
+ns1:P1296 rdfs:label "Gran Enciclopèdia Catalana ID (former scheme)"^^xsd:string .
+
+ns1:P1299 rdfs:label "depicted by"^^xsd:string .
+
+ns1:P131 rdfs:label "located in the administrative territorial entity"^^xsd:string .
+
+ns1:P1339 rdfs:label "number of injured"^^xsd:string .
+
+ns1:P1343 rdfs:label "described by source"^^xsd:string .
+
+ns1:P138 rdfs:label "named after"^^xsd:string .
+
+ns1:P1417 rdfs:label "Encyclopædia Britannica Online ID"^^xsd:string .
+
+ns1:P1424 rdfs:label "topic's main template"^^xsd:string .
+
+ns1:P1427 rdfs:label "start point"^^xsd:string .
+
+ns1:P1478 rdfs:label "has immediate cause"^^xsd:string .
+
+ns1:P154 rdfs:label "logo image"^^xsd:string .
+
+ns1:P1542 rdfs:label "has effect"^^xsd:string .
+
+ns1:P155 rdfs:label "follows"^^xsd:string .
+
+ns1:P1603 rdfs:label "number of cases"^^xsd:string .
+
+ns1:P17 rdfs:label "country"^^xsd:string .
+
+ns1:P1846 rdfs:label "distribution map"^^xsd:string .
+
+ns1:P1889 rdfs:label "different from"^^xsd:string .
+
+ns1:P2013 rdfs:label "Facebook username"^^xsd:string .
+
+ns1:P2046 rdfs:label "area"^^xsd:string .
+
+ns1:P2184 rdfs:label "history of topic"^^xsd:string .
+
+ns1:P227 rdfs:label "GND ID"^^xsd:string .
+
+ns1:P2347 rdfs:label "YSO ID"^^xsd:string .
+
+ns1:P2354 rdfs:label "has list"^^xsd:string .
+
+ns1:P244 rdfs:label "Library of Congress authority ID"^^xsd:string .
+
+ns1:P2572 rdfs:label "hashtag"^^xsd:string .
+
+ns1:P2581 rdfs:label "BabelNet ID"^^xsd:string .
+
+ns1:P2671 rdfs:label "Google Knowledge Graph ID"^^xsd:string .
+
+ns1:P268 rdfs:label "Bibliothèque nationale de France ID"^^xsd:string .
+
+ns1:P269 rdfs:label "IdRef ID"^^xsd:string .
+
+ns1:P2716 rdfs:label "montage image"^^xsd:string .
+
+ns1:P276 rdfs:label "location"^^xsd:string .
+
+ns1:P2924 rdfs:label "Great Russian Encyclopedia Online ID (old version)"^^xsd:string .
+
+ns1:P3017 rdfs:label "Rolling Stone artist ID"^^xsd:string .
+
+ns1:P31 rdfs:label "instance of"^^xsd:string .
+
+ns1:P3106 rdfs:label "Guardian topic ID"^^xsd:string .
+
+ns1:P3219 rdfs:label "Encyclopædia Universalis ID"^^xsd:string .
+
+ns1:P3222 rdfs:label "NE.se ID"^^xsd:string .
+
+ns1:P3417 rdfs:label "Quora topic ID"^^xsd:string .
+
+ns1:P3509 rdfs:label "Dagens Nyheter topic ID"^^xsd:string .
+
+ns1:P361 rdfs:label "part of"^^xsd:string .
+
+ns1:P373 rdfs:label "Commons category"^^xsd:string .
+
+ns1:P3984 rdfs:label "subreddit"^^xsd:string .
+
+ns1:P4073 rdfs:label "Fandom wiki ID"^^xsd:string .
+
+ns1:P4167 rdfs:label "Dagens Næringsliv topic ID"^^xsd:string .
+
+ns1:P4204 rdfs:label "The Times of India topic ID"^^xsd:string .
+
+ns1:P443 rdfs:label "pronunciation audio"^^xsd:string .
+
+ns1:P4431 rdfs:label "Google Doodle"^^xsd:string .
+
+ns1:P495 rdfs:label "country of origin"^^xsd:string .
+
+ns1:P5008 rdfs:label "on focus list of Wikimedia project"^^xsd:string .
+
+ns1:P5082 rdfs:label "Store medisinske leksikon ID"^^xsd:string .
+
+ns1:P527 rdfs:label "has part(s)"^^xsd:string .
+
+ns1:P5337 rdfs:label "Google News topics ID"^^xsd:string .
+
+ns1:P5551 rdfs:label "Courrier international topic ID"^^xsd:string .
+
+ns1:P5558 rdfs:label "Le Monde ID"^^xsd:string .
+
+ns1:P5582 rdfs:label "number of arrests"^^xsd:string .
+
+ns1:P571 rdfs:label "inception"^^xsd:string .
+
+ns1:P580 rdfs:label "start time"^^xsd:string .
+
+ns1:P582 rdfs:label "end time"^^xsd:string .
+
+ns1:P585 rdfs:label "point in time"^^xsd:string .
+
+ns1:P6200 rdfs:label "BBC News topic ID"^^xsd:string .
+
+ns1:P625 rdfs:label "coordinate location"^^xsd:string .
+
+ns1:P6293 rdfs:label "YSA ID"^^xsd:string .
+
+ns1:P6328 rdfs:label "Politika topic ID"^^xsd:string .
+
+ns1:P6385 rdfs:label "Krugosvet article"^^xsd:string .
+
+ns1:P646 rdfs:label "Freebase ID"^^xsd:string .
+
+ns1:P6621 rdfs:label "Le Figaro tag ID"^^xsd:string .
+
+ns1:P6760 rdfs:label "Know Your Meme ID"^^xsd:string .
+
+ns1:P6801 rdfs:label "number of hospital beds"^^xsd:string .
+
+ns1:P6839 rdfs:label "TV Tropes ID"^^xsd:string .
+
+ns1:P6922 rdfs:label "Metro topic ID"^^xsd:string .
+
+ns1:P710 rdfs:label "participant"^^xsd:string .
+
+ns1:P7284 rdfs:label "The Independent topic ID"^^xsd:string .
+
+ns1:P7301 rdfs:label "Al-Jazeera topic ID"^^xsd:string .
+
+ns1:P7775 rdfs:label "RationalWiki ID"^^xsd:string .
+
+ns1:P7827 rdfs:label "Spanish Vikidia ID"^^xsd:string .
+
+ns1:P7867 rdfs:label "category for maps"^^xsd:string .
+
+ns1:P793 rdfs:label "significant event"^^xsd:string .
+
+ns1:P8189 rdfs:label "National Library of Israel J9U ID"^^xsd:string .
+
+ns1:P828 rdfs:label "has cause"^^xsd:string .
+
+ns1:P910 rdfs:label "topic's main category"^^xsd:string .
+
+ns1:P9100 rdfs:label "GitHub topic"^^xsd:string .
+
+ns1:P9346 rdfs:label "France24 topic ID (French)"^^xsd:string .
+
+ns1:P9350 rdfs:label "PeriodO period ID"^^xsd:string .
+
+ns1:P948 rdfs:label "page banner"^^xsd:string .
+
+ns1:P9545 rdfs:label "Encyclopedia of China (Second Edition) ID"^^xsd:string .
+
+ns1:P973 rdfs:label "described at URL"^^xsd:string .
+
+<http://www.wikidata.org/entity/Q1006> rdfs:label "Guinea" .
+
+<http://www.wikidata.org/entity/Q1009> rdfs:label "Cameroon" .
+
+<http://www.wikidata.org/entity/Q1025> rdfs:label "Mauritania" .
+
+<http://www.wikidata.org/entity/Q1025837> rdfs:label "Caidian District" .
+
+<http://www.wikidata.org/entity/Q1028> rdfs:label "Morocco" .
+
+<http://www.wikidata.org/entity/Q1033> rdfs:label "Nigeria" .
+
+<http://www.wikidata.org/entity/Q1036897> rdfs:label "panic buying" .
+
+<http://www.wikidata.org/entity/Q1037> rdfs:label "Rwanda" .
+
+<http://www.wikidata.org/entity/Q1041> rdfs:label "Senegal" .
+
+<http://www.wikidata.org/entity/Q1049> rdfs:label "Sudan" .
+
+<http://www.wikidata.org/entity/Q1050> rdfs:label "Eswatini" .
+
+<http://www.wikidata.org/entity/Q10931> rdfs:label "revolution" .
+
+<http://www.wikidata.org/entity/Q114> rdfs:label "Kenya" .
+
+<http://www.wikidata.org/entity/Q11746> rdfs:label "Wuhan" .
+
+<http://www.wikidata.org/entity/Q12163419> rdfs:label "Ukraine–European Union Association Agreement" .
+
+<http://www.wikidata.org/entity/Q12184> rdfs:label "pandemic" .
+
+<http://www.wikidata.org/entity/Q1246> rdfs:label "Kosovo" .
+
+<http://www.wikidata.org/entity/Q124734> rdfs:label "rebellion" .
+
+<http://www.wikidata.org/entity/Q126065> rdfs:label "1979 energy crisis",
+        "Iranian Revolution" ;
+    ns3:timestamp "2022-04-23T21:21:59Z",
+        "2022-05-10T18:55:06Z" ;
+    ns2:altLabel "Islamic Revolution of Iran (1979)",
+        "Revolution of 1979" ;
+    ns1:P1120 "2781" ;
+    ns1:P1245 "799090" ;
+    ns1:P1417 "event/Iranian-Revolution-of-1978-1979" ;
+    ns1:P1542 <http://www.wikidata.org/entity/Q1925730> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q794> ;
+    ns1:P1889 <http://www.wikidata.org/entity/Q1368440> ;
+    ns1:P227 "4128331-4" ;
+    ns1:P2347 "39346" ;
+    ns1:P244 "sh86002666" ;
+    ns1:P268 "119392006" ;
+    ns1:P276 <http://www.wikidata.org/entity/Q794> ;
+    ns1:P2924 "2022939" ;
+    ns1:P31 <http://www.wikidata.org/entity/Q10931>,
+        <http://www.wikidata.org/entity/Q4574284> ;
+    ns1:P3219 "revolution-islamique-iranienne" ;
+    ns1:P3417 "Iranian-Revolution-1979" ;
+    ns1:P373 "Iranian Revolution" ;
+    ns1:P580 "1978-01-01T00:00:00Z" ;
+    ns1:P582 "1979-02-01T00:00:00Z" ;
+    ns1:P585 "1970-01-01T00:00:00Z",
+        "1979-01-01T00:00:00Z" ;
+    ns1:P6385 "gosudarstvo-i-politika/iranskaya-revolyuciya-1978-1979" ;
+    ns1:P646 "/m/01n7v7",
+        "/m/01yvs_" ;
+    ns1:P710 <http://www.wikidata.org/entity/Q1255284>,
+        <http://www.wikidata.org/entity/Q128245>,
+        <http://www.wikidata.org/entity/Q2472587>,
+        <http://www.wikidata.org/entity/Q289766>,
+        <http://www.wikidata.org/entity/Q382369>,
+        <http://www.wikidata.org/entity/Q38823>,
+        <http://www.wikidata.org/entity/Q471787>,
+        <http://www.wikidata.org/entity/Q5556852>,
+        <http://www.wikidata.org/entity/Q6370654>,
+        <http://www.wikidata.org/entity/Q700668>,
+        <http://www.wikidata.org/entity/Q951044> ;
+    ns1:P8189 "987007548732905171" ;
+    ns1:P828 <http://www.wikidata.org/entity/Q126065>,
+        <http://www.wikidata.org/entity/Q82664> ;
+    ns1:P910 <http://www.wikidata.org/entity/Q8552767> ;
+    ns1:P9545 "242358" .
+
+<http://www.wikidata.org/entity/Q128245> rdfs:label "Mohammad Reza Pahlavi" .
+
+<http://www.wikidata.org/entity/Q1368440> rdfs:label "Persian Constitutional Revolution" .
+
+<http://www.wikidata.org/entity/Q142> rdfs:label "France" .
+
+<http://www.wikidata.org/entity/Q145> rdfs:label "United Kingdom" .
+
+<http://www.wikidata.org/entity/Q14773> rdfs:label "Macau" .
+
+<http://www.wikidata.org/entity/Q15224558> rdfs:label "2014 Odessa clashes",
+        "Euromaidan" ;
+    ns3:timestamp "2022-04-29T23:50:17Z",
+        "2022-05-05T07:03:36Z" ;
+    ns2:altLabel "2013 Ukraine pro-European Union protests",
+        "2013 Ukraine protests",
+        "Euromaidan Protests, 2013-2014" ;
+    ns1:P1120 "104",
+        "48" ;
+    ns1:P1296 "21506750" ;
+    ns1:P1299 <http://www.wikidata.org/entity/Q20966464> ;
+    ns1:P131 <http://www.wikidata.org/entity/Q1874> ;
+    ns1:P1343 <http://www.wikidata.org/entity/Q20966464> ;
+    ns1:P138 <http://www.wikidata.org/entity/Q12163419>,
+        <http://www.wikidata.org/entity/Q863759> ;
+    ns1:P1417 "topic/Euromaidan" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q212> ;
+    ns1:P2013 "EuroMaydan" ;
+    ns1:P227 "1057900818" ;
+    ns1:P2347 "29638" ;
+    ns1:P244 "sh2014001396" ;
+    ns1:P268 "16954349q" ;
+    ns1:P269 "184625807" ;
+    ns1:P2716 <http://commons.wikimedia.org/wiki/Special:FilePath/Euromaidan%20collage.jpg> ;
+    ns1:P276 <http://www.wikidata.org/entity/Q1874>,
+        <http://www.wikidata.org/entity/Q212>,
+        <http://www.wikidata.org/entity/Q863759> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q175331>,
+        <http://www.wikidata.org/entity/Q180684>,
+        <http://www.wikidata.org/entity/Q273120>,
+        <http://www.wikidata.org/entity/Q686984> ;
+    ns1:P3222 "euromajdan" ;
+    ns1:P361 <http://www.wikidata.org/entity/Q15860072>,
+        <http://www.wikidata.org/entity/Q16918333> ;
+    ns1:P373 "Euromaidan" ;
+    ns1:P5008 <http://www.wikidata.org/entity/Q10780973> ;
+    ns1:P527 <http://www.wikidata.org/entity/Q15733401>,
+        <http://www.wikidata.org/entity/Q16744102> ;
+    ns1:P5582 "234" ;
+    ns1:P580 "2013-11-01T00:00:00Z",
+        "2013-11-21T00:00:00Z" ;
+    ns1:P582 "2014-02-23T00:00:00Z",
+        "2014-05-02T00:00:00Z" ;
+    ns1:P585 "2010-01-01T00:00:00Z",
+        "2014-02-22T00:00:00Z" ;
+    ns1:P6293 "Y212777" ;
+    ns1:P646 "/m/012srhzq",
+        "/m/0zdr2nc" ;
+    ns1:P793 <http://www.wikidata.org/entity/Q16744588> ;
+    ns1:P8189 "987007583827805171" ;
+    ns1:P828 <http://www.wikidata.org/entity/Q15224558> ;
+    ns1:P910 <http://www.wikidata.org/entity/Q15262078> ;
+    ns1:P9350 "6c6g3bc6j" .
+
+<http://www.wikidata.org/entity/Q15262078> rdfs:label "Category:Euromaidan" .
+
+<http://www.wikidata.org/entity/Q155> rdfs:label "Brazil" .
+
+<http://www.wikidata.org/entity/Q15733401> rdfs:label "Revolution of Dignity" .
+
+<http://www.wikidata.org/entity/Q15860072> rdfs:label "Russo-Ukrainian War" .
+
+<http://www.wikidata.org/entity/Q159> rdfs:label "Russia" .
+
+<http://www.wikidata.org/entity/Q16> rdfs:label "Canada" .
+
+<http://www.wikidata.org/entity/Q16744102> rdfs:label "2 May 2014 Odessa clashes" .
+
+<http://www.wikidata.org/entity/Q16744588> rdfs:label "Massacre in Odessa" .
+
+<http://www.wikidata.org/entity/Q16917> rdfs:label "hospital" .
+
+<http://www.wikidata.org/entity/Q16918333> rdfs:label "Ukrainian crisis 2013" .
+
+<http://www.wikidata.org/entity/Q17> rdfs:label "Japan" .
+
+<http://www.wikidata.org/entity/Q17076801> rdfs:label "public health emergency of international concern" .
+
+<http://www.wikidata.org/entity/Q180684> rdfs:label "conflict" .
+
+<http://www.wikidata.org/entity/Q183> rdfs:label "Germany" .
+
+<http://www.wikidata.org/entity/Q184> rdfs:label "Belarus" .
+
+<http://www.wikidata.org/entity/Q1880> rdfs:label "Concepción" .
+
+<http://www.wikidata.org/entity/Q189> rdfs:label "Iceland" .
+
+<http://www.wikidata.org/entity/Q191> rdfs:label "Estonia" .
+
+<http://www.wikidata.org/entity/Q1925730> rdfs:label "1979 energy crisis" .
+
+<http://www.wikidata.org/entity/Q20> rdfs:label "Norway" .
+
+<http://www.wikidata.org/entity/Q211> rdfs:label "Latvia" .
+
+<http://www.wikidata.org/entity/Q21203> rdfs:label "Aruba" .
+
+<http://www.wikidata.org/entity/Q213> rdfs:label "Czech Republic" .
+
+<http://www.wikidata.org/entity/Q214> rdfs:label "Slovakia" .
+
+<http://www.wikidata.org/entity/Q215> rdfs:label "Slovenia" .
+
+<http://www.wikidata.org/entity/Q217> rdfs:label "Moldova" .
+
+<http://www.wikidata.org/entity/Q218> rdfs:label "Romania" .
+
+<http://www.wikidata.org/entity/Q219> rdfs:label "Bulgaria" .
+
+<http://www.wikidata.org/entity/Q219060> rdfs:label "State of Palestine" .
+
+<http://www.wikidata.org/entity/Q221> rdfs:label "North Macedonia" .
+
+<http://www.wikidata.org/entity/Q222> rdfs:label "Albania" .
+
+<http://www.wikidata.org/entity/Q223625> rdfs:label "curfew" .
+
+<http://www.wikidata.org/entity/Q224> rdfs:label "Croatia" .
+
+<http://www.wikidata.org/entity/Q225> rdfs:label "Bosnia and Herzegovina" .
+
+<http://www.wikidata.org/entity/Q227> rdfs:label "Azerbaijan" .
+
+<http://www.wikidata.org/entity/Q228> rdfs:label "Andorra" .
+
+<http://www.wikidata.org/entity/Q229> rdfs:label "Cyprus" .
+
+<http://www.wikidata.org/entity/Q230> rdfs:label "Georgia" .
+
+<http://www.wikidata.org/entity/Q232> rdfs:label "Kazakhstan" .
+
+<http://www.wikidata.org/entity/Q233> rdfs:label "Malta" .
+
+<http://www.wikidata.org/entity/Q235> rdfs:label "Monaco" .
+
+<http://www.wikidata.org/entity/Q237> rdfs:label "Vatican City" .
+
+<http://www.wikidata.org/entity/Q238> rdfs:label "San Marino" .
+
+<http://www.wikidata.org/entity/Q241> rdfs:label "Cuba" .
+
+<http://www.wikidata.org/entity/Q242864> rdfs:label "Bahraini protests of 2011",
+        "Destruction of Shia mosques during the 2011 Bahraini uprising" ;
+    ns3:timestamp "2022-03-15T02:02:36Z",
+        "2022-03-22T16:04:17Z" ;
+    ns2:altLabel "Bahraini protest",
+        "Bahraini revolution",
+        "Bahraini uprising (2011–present)",
+        "February 14th revolution" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q398> ;
+    ns1:P276 <http://www.wikidata.org/entity/Q398> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q124734>,
+        <http://www.wikidata.org/entity/Q273120>,
+        <http://www.wikidata.org/entity/Q3109572>,
+        <http://www.wikidata.org/entity/Q331483>,
+        <http://www.wikidata.org/entity/Q47217>,
+        <http://www.wikidata.org/entity/Q8059283> ;
+    ns1:P361 <http://www.wikidata.org/entity/Q33761> ;
+    ns1:P373 "2011 Bahraini protests" ;
+    ns1:P580 "2011-02-14T00:00:00Z" ;
+    ns1:P625 "Point(50.55 26.0275)" ;
+    ns1:P646 "/m/0102pj1m",
+        "/m/0gfh2v7" ;
+    ns1:P828 <http://www.wikidata.org/entity/Q242864> ;
+    ns1:P910 <http://www.wikidata.org/entity/Q6907158> .
+
+<http://www.wikidata.org/entity/Q2472587> rdfs:label "people" .
+
+<http://www.wikidata.org/entity/Q252> rdfs:label "Indonesia" .
+
+<http://www.wikidata.org/entity/Q25279> rdfs:label "Curaçao" .
+
+<http://www.wikidata.org/entity/Q258> rdfs:label "South Africa" .
+
+<http://www.wikidata.org/entity/Q262> rdfs:label "Algeria" .
+
+<http://www.wikidata.org/entity/Q27> rdfs:label "Republic of Ireland" .
+
+<http://www.wikidata.org/entity/Q27949697> rdfs:label "Wikibase reason for deprecated rank" .
+
+<http://www.wikidata.org/entity/Q28> rdfs:label "Hungary" .
+
+<http://www.wikidata.org/entity/Q2887> rdfs:label "Santiago" .
+
+<http://www.wikidata.org/entity/Q289766> rdfs:label "Dariush Forouhar" .
+
+<http://www.wikidata.org/entity/Q29> rdfs:label "Spain" .
+
+<http://www.wikidata.org/entity/Q30> rdfs:label "United States of America" .
+
+<http://www.wikidata.org/entity/Q31> rdfs:label "Belgium" .
+
+<http://www.wikidata.org/entity/Q3109572> rdfs:label "civil resistance" .
+
+<http://www.wikidata.org/entity/Q32> rdfs:label "Luxembourg" .
+
+<http://www.wikidata.org/entity/Q3241045> rdfs:label "disease outbreak" .
+
+<http://www.wikidata.org/entity/Q33> rdfs:label "Finland" .
+
+<http://www.wikidata.org/entity/Q331483> rdfs:label "demolition" .
+
+<http://www.wikidata.org/entity/Q334> rdfs:label "Singapore" .
+
+<http://www.wikidata.org/entity/Q33761> rdfs:label "Arab Spring" .
+
+<http://www.wikidata.org/entity/Q33986> rdfs:label "Valparaíso" .
+
+<http://www.wikidata.org/entity/Q34> rdfs:label "Sweden" .
+
+<http://www.wikidata.org/entity/Q347> rdfs:label "Liechtenstein" .
+
+<http://www.wikidata.org/entity/Q35> rdfs:label "Denmark" .
+
+<http://www.wikidata.org/entity/Q36> rdfs:label "Poland" .
+
+<http://www.wikidata.org/entity/Q37> rdfs:label "Lithuania" .
+
+<http://www.wikidata.org/entity/Q38> rdfs:label "Italy" .
+
+<http://www.wikidata.org/entity/Q382369> rdfs:label "Mehdi Bazargan" .
+
+<http://www.wikidata.org/entity/Q38823> rdfs:label "Ruhollah Khomeini" .
+
+<http://www.wikidata.org/entity/Q39> rdfs:label "Switzerland" .
+
+<http://www.wikidata.org/entity/Q399> rdfs:label "Armenia" .
+
+<http://www.wikidata.org/entity/Q40> rdfs:label "Austria" .
+
+<http://www.wikidata.org/entity/Q403> rdfs:label "Serbia" .
+
+<http://www.wikidata.org/entity/Q408> rdfs:label "Australia" .
+
+<http://www.wikidata.org/entity/Q41> rdfs:label "Greece" .
+
+<http://www.wikidata.org/entity/Q414> rdfs:label "Argentina" .
+
+<http://www.wikidata.org/entity/Q419> rdfs:label "Peru" .
+
+<http://www.wikidata.org/entity/Q423> rdfs:label "North Korea" .
+
+<http://www.wikidata.org/entity/Q424> rdfs:label "Cambodia" .
+
+<http://www.wikidata.org/entity/Q43> rdfs:label "Turkey" .
+
+<http://www.wikidata.org/entity/Q43109> rdfs:label "referendum" .
+
+<http://www.wikidata.org/entity/Q45> rdfs:label "Portugal" .
+
+<http://www.wikidata.org/entity/Q4574284> rdfs:label "1970s energy crisis" .
+
+<http://www.wikidata.org/entity/Q471787> rdfs:label "Shapour Bakhtiar" .
+
+<http://www.wikidata.org/entity/Q47217> rdfs:label "civil disobedience" .
+
+<http://www.wikidata.org/entity/Q55> rdfs:label "Netherlands" .
+
+<http://www.wikidata.org/entity/Q5556852> rdfs:label "Gholam Ali Oveisi" .
+
+<http://www.wikidata.org/entity/Q574> rdfs:label "East Timor" .
+
+<http://www.wikidata.org/entity/Q6370654> rdfs:label "Karim Sanjabi" .
+
+<http://www.wikidata.org/entity/Q664> rdfs:label "New Zealand" .
+
+<http://www.wikidata.org/entity/Q668> rdfs:label "India" .
+
+<http://www.wikidata.org/entity/Q686984> rdfs:label "civil disorder" .
+
+<http://www.wikidata.org/entity/Q6907158> rdfs:label "Category:Bahraini uprising of 2011" .
+
+<http://www.wikidata.org/entity/Q711> rdfs:label "Mongolia" .
+
+<http://www.wikidata.org/entity/Q71500435> rdfs:label "2019–21 Chilean protests",
+        "Chilean national plebiscite, 2020" ;
+    ns3:timestamp "2022-05-14T00:45:11Z",
+        "2022-05-19T15:49:10Z" ;
+    ns2:altLabel "2019 Chilean protests",
+        "2020 Chilean constitutional referendum",
+        "Chilean constitutional referendum, 2020",
+        "Chilean protests",
+        "Chilean revolution",
+        "Chilean riots",
+        "La Revuelta en Chile" ;
+    ns1:P1120 "40" ;
+    ns1:P1339 "2500" ;
+    ns1:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Plebiscito%20Nacional%202020%20-%20SERVEL.png> ;
+    ns1:P1542 <http://www.wikidata.org/entity/Q223625>,
+        <http://www.wikidata.org/entity/Q75072406> ;
+    ns1:P155 <http://www.wikidata.org/entity/Q5098807> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q298> ;
+    ns1:P2572 "ChileDesperto",
+        "EstoPasaEnChile",
+        "EvasionMasiva",
+        "LaMarchaMasGrandeDeChile",
+        "PiñeraRenuncia" ;
+    ns1:P2671 "/g/11fp33vg2f",
+        "/g/11j0y2xsqp" ;
+    ns1:P276 <http://www.wikidata.org/entity/Q1880>,
+        <http://www.wikidata.org/entity/Q2887>,
+        <http://www.wikidata.org/entity/Q3113635>,
+        <http://www.wikidata.org/entity/Q33986> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q175331>,
+        <http://www.wikidata.org/entity/Q273120>,
+        <http://www.wikidata.org/entity/Q43109> ;
+    ns1:P373 "2019 Chilean protests",
+        "Chilean national plebiscite, 2020" ;
+    ns1:P4431 "chile-national-plebiscite-2020" ;
+    ns1:P5582 "6362" ;
+    ns1:P580 "2019-10-14T00:00:00Z" ;
+    ns1:P585 "2020-10-25T00:00:00Z" ;
+    ns1:P6200 "c452lzylemmt" ;
+    ns1:P828 <http://www.wikidata.org/entity/Q71500435> .
+
+<http://www.wikidata.org/entity/Q717> rdfs:label "Venezuela" .
+
+<http://www.wikidata.org/entity/Q730> rdfs:label "Suriname" .
+
+<http://www.wikidata.org/entity/Q733> rdfs:label "Paraguay" .
+
+<http://www.wikidata.org/entity/Q734> rdfs:label "Guyana" .
+
+<http://www.wikidata.org/entity/Q736> rdfs:label "Ecuador" .
+
+<http://www.wikidata.org/entity/Q739> rdfs:label "Colombia" .
+
+<http://www.wikidata.org/entity/Q750> rdfs:label "Bolivia" .
+
+<http://www.wikidata.org/entity/Q75072406> rdfs:label "Chilean national plebiscite, 2020" .
+
+<http://www.wikidata.org/entity/Q754> rdfs:label "Trinidad and Tobago" .
+
+<http://www.wikidata.org/entity/Q757> rdfs:label "Saint Vincent and the Grenadines" .
+
+<http://www.wikidata.org/entity/Q760> rdfs:label "Saint Lucia" .
+
+<http://www.wikidata.org/entity/Q766> rdfs:label "Jamaica" .
+
+<http://www.wikidata.org/entity/Q77> rdfs:label "Uruguay" .
+
+<http://www.wikidata.org/entity/Q774> rdfs:label "Guatemala" .
+
+<http://www.wikidata.org/entity/Q781> rdfs:label "Antigua and Barbuda" .
+
+<http://www.wikidata.org/entity/Q783> rdfs:label "Honduras" .
+
+<http://www.wikidata.org/entity/Q786> rdfs:label "Dominican Republic" .
+
+<http://www.wikidata.org/entity/Q79> rdfs:label "Egypt" .
+
+<http://www.wikidata.org/entity/Q792> rdfs:label "El Salvador" .
+
+<http://www.wikidata.org/entity/Q796> rdfs:label "Iraq" .
+
+<http://www.wikidata.org/entity/Q800> rdfs:label "Costa Rica" .
+
+<http://www.wikidata.org/entity/Q801> rdfs:label "Israel" .
+
+<http://www.wikidata.org/entity/Q804> rdfs:label "Panama" .
+
+<http://www.wikidata.org/entity/Q8059283> rdfs:label "youth activism" .
+
+<http://www.wikidata.org/entity/Q810> rdfs:label "Jordan" .
+
+<http://www.wikidata.org/entity/Q81068910> rdfs:label "COVID-19 pandemic",
+        "Huoshenshan Hospital" ;
+    ns3:timestamp "2022-04-19T23:18:13Z",
+        "2022-05-06T21:29:47Z" ;
+    ns2:altLabel "2019-2022 SARS-CoV-2 outbreak",
+        "2019nCov outbreak",
+        "2019–2022 COVID-19 pandemic",
+        "2019–2022 Wuhan coronavirus outbreak",
+        "2019–2022 coronavirus pandemic",
+        "2019–2022 outbreak of COVID-19",
+        "2019–22 COVID-19 pandemic",
+        "2019–22 coronavirus outbreak",
+        "2019–22 coronavirus pandemic",
+        "2019–22 outbreak of COVID-19",
+        "2019–22 outbreak of novel coronavirus (2019-nCoV)",
+        "COVID pandemic",
+        "COVID-19 epidemic",
+        "COVID-19 outbreak",
+        "SARS-CoV-2 pandemic",
+        "coronavirus pandemic",
+        "nCov-2019 outbreak",
+        "nCov2019 outbreak",
+        "outbreak of 2019-nCoV acute respiratory disease" ;
+    ns1:P10283 "C3006700255" ;
+    ns1:P1101 "2" ;
+    ns1:P1120 "5501000" ;
+    ns1:P1151 <http://www.wikidata.org/entity/Q87829288> ;
+    ns1:P1282 "Key:access:covid19",
+        "Key:capacity:covid19",
+        "Key:delivery:covid19",
+        "Key:description:covid19",
+        "Key:drive_through:covid19",
+        "Key:note:covid19",
+        "Key:opening_hours:covid19",
+        "Key:takeaway:covid19" ;
+    ns1:P131 <http://www.wikidata.org/entity/Q1025837> ;
+    ns1:P1417 "science/COVID-19" ;
+    ns1:P1424 <http://www.wikidata.org/entity/Q83761248> ;
+    ns1:P1427 <http://www.wikidata.org/entity/Q83264280> ;
+    ns1:P1478 <http://www.wikidata.org/entity/Q82069695> ;
+    ns1:P1542 <http://www.wikidata.org/entity/Q1036897>,
+        <http://www.wikidata.org/entity/Q83554783>,
+        <http://www.wikidata.org/entity/Q83766264>,
+        <http://www.wikidata.org/entity/Q85173778>,
+        <http://www.wikidata.org/entity/Q85872065>,
+        <http://www.wikidata.org/entity/Q96175652>,
+        <http://www.wikidata.org/entity/Q96246183>,
+        <http://www.wikidata.org/entity/Q96354847> ;
+    ns1:P1603 "312173462" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q1006>,
+        <http://www.wikidata.org/entity/Q1009>,
+        <http://www.wikidata.org/entity/Q1025>,
+        <http://www.wikidata.org/entity/Q1028>,
+        <http://www.wikidata.org/entity/Q1033>,
+        <http://www.wikidata.org/entity/Q1037>,
+        <http://www.wikidata.org/entity/Q1041>,
+        <http://www.wikidata.org/entity/Q1049>,
+        <http://www.wikidata.org/entity/Q1050>,
+        <http://www.wikidata.org/entity/Q114>,
+        <http://www.wikidata.org/entity/Q1246>,
+        <http://www.wikidata.org/entity/Q142>,
+        <http://www.wikidata.org/entity/Q145>,
+        <http://www.wikidata.org/entity/Q14773>,
+        <http://www.wikidata.org/entity/Q148>,
+        <http://www.wikidata.org/entity/Q155>,
+        <http://www.wikidata.org/entity/Q159>,
+        <http://www.wikidata.org/entity/Q16>,
+        <http://www.wikidata.org/entity/Q17>,
+        <http://www.wikidata.org/entity/Q183>,
+        <http://www.wikidata.org/entity/Q184>,
+        <http://www.wikidata.org/entity/Q189>,
+        <http://www.wikidata.org/entity/Q191>,
+        <http://www.wikidata.org/entity/Q20>,
+        <http://www.wikidata.org/entity/Q211>,
+        <http://www.wikidata.org/entity/Q212>,
+        <http://www.wikidata.org/entity/Q21203>,
+        <http://www.wikidata.org/entity/Q213>,
+        <http://www.wikidata.org/entity/Q214>,
+        <http://www.wikidata.org/entity/Q215>,
+        <http://www.wikidata.org/entity/Q217>,
+        <http://www.wikidata.org/entity/Q218>,
+        <http://www.wikidata.org/entity/Q219>,
+        <http://www.wikidata.org/entity/Q219060>,
+        <http://www.wikidata.org/entity/Q221>,
+        <http://www.wikidata.org/entity/Q222>,
+        <http://www.wikidata.org/entity/Q224>,
+        <http://www.wikidata.org/entity/Q225>,
+        <http://www.wikidata.org/entity/Q227>,
+        <http://www.wikidata.org/entity/Q228>,
+        <http://www.wikidata.org/entity/Q229>,
+        <http://www.wikidata.org/entity/Q230>,
+        <http://www.wikidata.org/entity/Q232>,
+        <http://www.wikidata.org/entity/Q233>,
+        <http://www.wikidata.org/entity/Q235>,
+        <http://www.wikidata.org/entity/Q237>,
+        <http://www.wikidata.org/entity/Q238>,
+        <http://www.wikidata.org/entity/Q241>,
+        <http://www.wikidata.org/entity/Q252>,
+        <http://www.wikidata.org/entity/Q25279>,
+        <http://www.wikidata.org/entity/Q258>,
+        <http://www.wikidata.org/entity/Q262>,
+        <http://www.wikidata.org/entity/Q27>,
+        <http://www.wikidata.org/entity/Q28>,
+        <http://www.wikidata.org/entity/Q29>,
+        <http://www.wikidata.org/entity/Q298>,
+        <http://www.wikidata.org/entity/Q30>,
+        <http://www.wikidata.org/entity/Q31>,
+        <http://www.wikidata.org/entity/Q32>,
+        <http://www.wikidata.org/entity/Q33>,
+        <http://www.wikidata.org/entity/Q334>,
+        <http://www.wikidata.org/entity/Q34>,
+        <http://www.wikidata.org/entity/Q347>,
+        <http://www.wikidata.org/entity/Q35>,
+        <http://www.wikidata.org/entity/Q36>,
+        <http://www.wikidata.org/entity/Q37>,
+        <http://www.wikidata.org/entity/Q38>,
+        <http://www.wikidata.org/entity/Q39>,
+        <http://www.wikidata.org/entity/Q398>,
+        <http://www.wikidata.org/entity/Q399>,
+        <http://www.wikidata.org/entity/Q40>,
+        <http://www.wikidata.org/entity/Q403>,
+        <http://www.wikidata.org/entity/Q408>,
+        <http://www.wikidata.org/entity/Q41>,
+        <http://www.wikidata.org/entity/Q414>,
+        <http://www.wikidata.org/entity/Q419>,
+        <http://www.wikidata.org/entity/Q423>,
+        <http://www.wikidata.org/entity/Q424>,
+        <http://www.wikidata.org/entity/Q43>,
+        <http://www.wikidata.org/entity/Q45>,
+        <http://www.wikidata.org/entity/Q55>,
+        <http://www.wikidata.org/entity/Q574>,
+        <http://www.wikidata.org/entity/Q664>,
+        <http://www.wikidata.org/entity/Q668>,
+        <http://www.wikidata.org/entity/Q711>,
+        <http://www.wikidata.org/entity/Q717>,
+        <http://www.wikidata.org/entity/Q730>,
+        <http://www.wikidata.org/entity/Q733>,
+        <http://www.wikidata.org/entity/Q734>,
+        <http://www.wikidata.org/entity/Q736>,
+        <http://www.wikidata.org/entity/Q739>,
+        <http://www.wikidata.org/entity/Q750>,
+        <http://www.wikidata.org/entity/Q754>,
+        <http://www.wikidata.org/entity/Q757>,
+        <http://www.wikidata.org/entity/Q760>,
+        <http://www.wikidata.org/entity/Q766>,
+        <http://www.wikidata.org/entity/Q77>,
+        <http://www.wikidata.org/entity/Q774>,
+        <http://www.wikidata.org/entity/Q781>,
+        <http://www.wikidata.org/entity/Q783>,
+        <http://www.wikidata.org/entity/Q786>,
+        <http://www.wikidata.org/entity/Q79>,
+        <http://www.wikidata.org/entity/Q792>,
+        <http://www.wikidata.org/entity/Q794>,
+        <http://www.wikidata.org/entity/Q796>,
+        <http://www.wikidata.org/entity/Q800>,
+        <http://www.wikidata.org/entity/Q801>,
+        <http://www.wikidata.org/entity/Q804>,
+        <http://www.wikidata.org/entity/Q810>,
+        <http://www.wikidata.org/entity/Q811>,
+        <http://www.wikidata.org/entity/Q817>,
+        <http://www.wikidata.org/entity/Q822>,
+        <http://www.wikidata.org/entity/Q826>,
+        <http://www.wikidata.org/entity/Q833>,
+        <http://www.wikidata.org/entity/Q837>,
+        <http://www.wikidata.org/entity/Q842>,
+        <http://www.wikidata.org/entity/Q843>,
+        <http://www.wikidata.org/entity/Q846>,
+        <http://www.wikidata.org/entity/Q851>,
+        <http://www.wikidata.org/entity/Q854>,
+        <http://www.wikidata.org/entity/Q865>,
+        <http://www.wikidata.org/entity/Q869>,
+        <http://www.wikidata.org/entity/Q878>,
+        <http://www.wikidata.org/entity/Q881>,
+        <http://www.wikidata.org/entity/Q884>,
+        <http://www.wikidata.org/entity/Q889>,
+        <http://www.wikidata.org/entity/Q902>,
+        <http://www.wikidata.org/entity/Q917>,
+        <http://www.wikidata.org/entity/Q921>,
+        <http://www.wikidata.org/entity/Q928>,
+        <http://www.wikidata.org/entity/Q945>,
+        <http://www.wikidata.org/entity/Q948>,
+        <http://www.wikidata.org/entity/Q96> ;
+    ns1:P1846 <http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20Outbreak%20World%20Map%20per%20Capita.svg> ;
+    ns1:P1889 <http://www.wikidata.org/entity/Q82069695>,
+        <http://www.wikidata.org/entity/Q84263196> ;
+    ns1:P2046 "60000" ;
+    ns1:P2184 <http://www.wikidata.org/entity/Q83493517> ;
+    ns1:P2354 <http://www.wikidata.org/entity/Q83741704>,
+        <http://www.wikidata.org/entity/Q90290885> ;
+    ns1:P244 "sh2020008759" ;
+    ns1:P2572 "2019nCoV",
+        "COVID19FOAM" ;
+    ns1:P2581 "25337381n" ;
+    ns1:P2671 "/g/11fr15t15h",
+        "/g/11j238y7qj" ;
+    ns1:P2716 <http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20pandemic%20collage.jpg> ;
+    ns1:P276 <http://www.wikidata.org/entity/Q11746> ;
+    ns1:P3017 "coronavirus" ;
+    ns1:P31 <http://www.wikidata.org/entity/Q12184>,
+        <http://www.wikidata.org/entity/Q16917>,
+        <http://www.wikidata.org/entity/Q17076801>,
+        <http://www.wikidata.org/entity/Q27949697>,
+        <http://www.wikidata.org/entity/Q3241045> ;
+    ns1:P3106 "world/coronavirus-outbreak" ;
+    ns1:P3417 "COVID-19-2019-2020" ;
+    ns1:P3509 "det-nya-coronaviruset" ;
+    ns1:P373 "COVID-19 pandemic",
+        "Huoshenshan Hospital" ;
+    ns1:P3984 "COVID19",
+        "China_Flu",
+        "Coronavirus",
+        "Covid2019" ;
+    ns1:P4073 "coronavirus" ;
+    ns1:P4167 "Koronaviruset" ;
+    ns1:P4204 "coronavirus" ;
+    ns1:P443 <http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-pand%C3%A9mie%20de%20Covid-19.wav> ;
+    ns1:P495 <http://www.wikidata.org/entity/Q148> ;
+    ns1:P5008 <http://www.wikidata.org/entity/Q10780973>,
+        <http://www.wikidata.org/entity/Q87748614> ;
+    ns1:P5082 "koronavirus-pandemien_i_2020" ;
+    ns1:P527 <http://www.wikidata.org/entity/Q86458103>,
+        <http://www.wikidata.org/entity/Q86521237>,
+        <http://www.wikidata.org/entity/Q86694210>,
+        <http://www.wikidata.org/entity/Q86694873>,
+        <http://www.wikidata.org/entity/Q87406428>,
+        <http://www.wikidata.org/entity/Q89453779>,
+        <http://www.wikidata.org/entity/Q98777187> ;
+    ns1:P5337 "CAAqKAgKIiJDQkFTRXdvTkwyY3ZNVEZtY2pFMWRERTFhQklDWlc0b0FBUAE" ;
+    ns1:P5551 "coronavirus" ;
+    ns1:P5558 "coronavirus-2019-ncov" ;
+    ns1:P571 "2020-02-03T00:00:00Z" ;
+    ns1:P580 "2019-12-01T00:00:00Z" ;
+    ns1:P6200 "cyz0z8w0ydwt" ;
+    ns1:P625 "Point(114.082532 30.53028)" ;
+    ns1:P6328 "4260" ;
+    ns1:P6621 "coronavirus" ;
+    ns1:P6760 "32522" ;
+    ns1:P6801 "1000" ;
+    ns1:P6839 "UsefulNotes/COVID19Pandemic",
+        "UsefulNotes/CoronavirusDisease2019Pandemic" ;
+    ns1:P6922 "coronavirus" ;
+    ns1:P7284 "coronavirus" ;
+    ns1:P7301 "tag/coronavirus-pandemic" ;
+    ns1:P7775 "COVID-19_pandemic" ;
+    ns1:P7827 "Pandemia_de_COVID-19" ;
+    ns1:P7867 <http://www.wikidata.org/entity/Q84136170> ;
+    ns1:P828 <http://www.wikidata.org/entity/Q81068910>,
+        <http://www.wikidata.org/entity/Q82069695> ;
+    ns1:P910 <http://www.wikidata.org/entity/Q83189805> ;
+    ns1:P9100 "wuhan-coronavirus-outbreak" ;
+    ns1:P9346 "coronavirus" ;
+    ns1:P948 <http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20banner%20Hand%20sanitizer.jpg> ;
+    ns1:P973 <https://www.who.int/emergencies/diseases/novel-coronavirus-2019> .
+
+<http://www.wikidata.org/entity/Q811> rdfs:label "Nicaragua" .
+
+<http://www.wikidata.org/entity/Q817> rdfs:label "Kuwait" .
+
+<http://www.wikidata.org/entity/Q822> rdfs:label "Lebanon" .
+
+<http://www.wikidata.org/entity/Q826> rdfs:label "Maldives" .
+
+<http://www.wikidata.org/entity/Q82664> rdfs:label "Iran–Iraq War" .
+
+<http://www.wikidata.org/entity/Q83189805> rdfs:label "Category:COVID-19 pandemic" .
+
+<http://www.wikidata.org/entity/Q833> rdfs:label "Malaysia" .
+
+<http://www.wikidata.org/entity/Q83493517> rdfs:label "Timeline of the COVID-19 pandemic" .
+
+<http://www.wikidata.org/entity/Q83554783> rdfs:label "Huoshenshan Hospital" .
+
+<http://www.wikidata.org/entity/Q837> rdfs:label "Nepal" .
+
+<http://www.wikidata.org/entity/Q83741704> rdfs:label "COVID-19 pandemic by country and territory" .
+
+<http://www.wikidata.org/entity/Q83761248> rdfs:label "Template:COVID-19 pandemic" .
+
+<http://www.wikidata.org/entity/Q842> rdfs:label "Oman" .
+
+<http://www.wikidata.org/entity/Q84263196> rdfs:label "COVID-19" .
+
+<http://www.wikidata.org/entity/Q843> rdfs:label "Pakistan" .
+
+<http://www.wikidata.org/entity/Q846> rdfs:label "Qatar" .
+
+<http://www.wikidata.org/entity/Q851> rdfs:label "Saudi Arabia" .
+
+<http://www.wikidata.org/entity/Q85173778> rdfs:label "COVID-19 misinformation" .
+
+<http://www.wikidata.org/entity/Q854> rdfs:label "Sri Lanka" .
+
+<http://www.wikidata.org/entity/Q8552767> rdfs:label "Category:Iranian Revolution" .
+
+<http://www.wikidata.org/entity/Q85872065> rdfs:label "social impact of the COVID-19 pandemic" .
+
+<http://www.wikidata.org/entity/Q86458103> rdfs:label "COVID-19 pandemic in Europe" .
+
+<http://www.wikidata.org/entity/Q865> rdfs:label "Taiwan" .
+
+<http://www.wikidata.org/entity/Q86521237> rdfs:label "COVID-19 pandemic in Asia" .
+
+<http://www.wikidata.org/entity/Q86694210> rdfs:label "2020 COVID-19 pandemic in Oceania" .
+
+<http://www.wikidata.org/entity/Q869> rdfs:label "Thailand" .
+
+<http://www.wikidata.org/entity/Q87406428> rdfs:label "2020 COVID-19 pandemic in the Americas" .
+
+<http://www.wikidata.org/entity/Q87748614> rdfs:label "WikiProject COVID-19" .
+
+<http://www.wikidata.org/entity/Q878> rdfs:label "United Arab Emirates" .
+
+<http://www.wikidata.org/entity/Q881> rdfs:label "Vietnam" .
+
+<http://www.wikidata.org/entity/Q884> rdfs:label "South Korea" .
+
+<http://www.wikidata.org/entity/Q889> rdfs:label "Afghanistan" .
+
+<http://www.wikidata.org/entity/Q89453779> rdfs:label "2020 COVID-19 pandemic in Antarctica" .
+
+<http://www.wikidata.org/entity/Q902> rdfs:label "Bangladesh" .
+
+<http://www.wikidata.org/entity/Q90290885> rdfs:label "list of healthcare workers who died during COVID-19 outbreak" .
+
+<http://www.wikidata.org/entity/Q917> rdfs:label "Bhutan" .
+
+<http://www.wikidata.org/entity/Q921> rdfs:label "Brunei" .
+
+<http://www.wikidata.org/entity/Q928> rdfs:label "Philippines" .
+
+<http://www.wikidata.org/entity/Q945> rdfs:label "Togo" .
+
+<http://www.wikidata.org/entity/Q948> rdfs:label "Tunisia" .
+
+<http://www.wikidata.org/entity/Q951044> rdfs:label "Jafar Sharif-Emami" .
+
+<http://www.wikidata.org/entity/Q96> rdfs:label "Mexico" .
+
+<http://www.wikidata.org/entity/Q96175652> rdfs:label "economic impact of the COVID-19 pandemic" .
+
+<http://www.wikidata.org/entity/Q96246183> rdfs:label "response to the COVID-19 pandemic" .
+
+<http://www.wikidata.org/entity/Q96354847> rdfs:label "impact of the COVID-19 pandemic on culture and entertainment" .
+
+<http://www.wikidata.org/entity/Q10780973> rdfs:label "WikiProject Ukraine" .
+
+<http://www.wikidata.org/entity/Q148> rdfs:label "People's Republic of China" .
+
+<http://www.wikidata.org/entity/Q175331> rdfs:label "demonstration" .
+
+<http://www.wikidata.org/entity/Q1874> rdfs:label "Odessa" .
+
+<http://www.wikidata.org/entity/Q20966464> rdfs:label "Winter on Fire: Ukraine's Fight for Freedom" .
+
+<http://www.wikidata.org/entity/Q298> rdfs:label "Chile" .
+
+<http://www.wikidata.org/entity/Q863759> rdfs:label "Maidan Nezalezhnosti" .
+
+<http://www.wikidata.org/entity/Q212> rdfs:label "Ukraine" .
+
+<http://www.wikidata.org/entity/Q273120> rdfs:label "protest" .
+
+<http://www.wikidata.org/entity/Q398> rdfs:label "Bahrain" .
+
+<http://www.wikidata.org/entity/Q794> rdfs:label "Iran" .
+
+<http://www.wikidata.org/entity/Q82069695> rdfs:label "SARS-CoV-2" .
+

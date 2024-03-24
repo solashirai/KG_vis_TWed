@@ -1,0 +1,34 @@
+@prefix ns1: <http://www.wikidata.org/prop/direct/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://www.wikidata.org/entity/Q111015277> rdfs:label "2022 anti-war protests in Russia" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q159> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q273120> .
+
+<http://www.wikidata.org/entity/Q5484> rdfs:label "Caspian Sea" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q159>,
+        <http://www.wikidata.org/entity/Q794> .
+
+<http://www.wikidata.org/entity/ex12> rdfs:label "Cause Event" ;
+    ns1:P1542 <http://www.wikidata.org/entity/EFFECT_EVENT> ;
+    ns1:P17 <http://www.wikidata.org/entity/Q794> ;
+    ns1:P31 <http://www.wikidata.org/entity/Q273120> .
+
+<http://www.wikidata.org/entity/EFFECT_EVENT> rdfs:label "Effect Event" ;
+    ns1:P17 <http://www.wikidata.org/entity/Q159> .
+
+<http://www.wikidata.org/entity/Q408> rdfs:label "Australia" ;
+    ns1:P530 <http://www.wikidata.org/entity/Q159> .
+
+<http://www.wikidata.org/entity/Q273120> rdfs:label "protest" .
+
+<http://www.wikidata.org/entity/Q822> rdfs:label "Lebanon" ;
+    ns1:P530 <http://www.wikidata.org/entity/Q794> .
+
+<http://www.wikidata.org/entity/Q794> rdfs:label "Iran" ;
+    ns1:P530 <http://www.wikidata.org/entity/Q408>,
+        <http://www.wikidata.org/entity/Q822> .
+
+<http://www.wikidata.org/entity/Q159> rdfs:label "Russia" ;
+    ns1:P530 <http://www.wikidata.org/entity/Q822> .
+
