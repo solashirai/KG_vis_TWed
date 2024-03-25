@@ -3,6 +3,15 @@
 This repo contains some example data, code, and resources related to my TWed talk on tools and methods for visualizing 
 KG snippets.
 
+## Scope
+
+The purpose of this demo and content in this repo are to explore and discuss options for **visualizing** some KG or
+small portion of a KG. Additional capabilities of various tools, like querying and analysis, are only discussed when
+they are relevant to our ability to visualize things.
+
+To support this, several different versions of KGs with different extends of "relevant" information have been curated,
+and detailed in the next section.
+
 ## Data
 
 The data contained in `data/` is formatted as `.ttl` files of KG snippets, related to my previous work on 
@@ -43,7 +52,7 @@ Whereever possible, I also am focused on the perspective of using Python for the
 | Powerpoint | - | - | - | - | + | 100% manual effort |
 | draw.io | - | - | - | - | + | Mostly manual effort, some importing possible |
 | WebVOWL | ~ | ~ | + | + | - | Mainly aimed at ontology visualization |
-| GraphDB | x | x | x | x | x | TODO |
+| GraphDB | ~ | + | ~ | + | - | TODO |
 | sigma.js | x | x | x | x | x | TODO |
 | Graphviz | x | x | x | x | x | TODO |
 | Neo4J | x | x | x | x | x | TODO |
