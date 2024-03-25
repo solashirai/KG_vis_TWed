@@ -32,3 +32,10 @@
 <http://www.wikidata.org/entity/Q159> rdfs:label "Russia" ;
     ns1:P530 <http://www.wikidata.org/entity/Q822> .
 
+ns1:P17 rdfs:label "country"^^xsd:string .
+
+ns1:P1542 rdfs:label "has effect"^^xsd:string .
+
+ns1:P31 rdfs:label "instance of"^^xsd:string .
+
+ns:P530 rdfs:label "diplomatic relation"^^xsd:string .
