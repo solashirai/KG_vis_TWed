@@ -38,4 +38,4 @@ ns1:P1542 rdfs:label "has effect"^^xsd:string .
 
 ns1:P31 rdfs:label "instance of"^^xsd:string .
 
-ns:P530 rdfs:label "diplomatic relation"^^xsd:string .
+ns1:P530 rdfs:label "diplomatic relation"^^xsd:string .
