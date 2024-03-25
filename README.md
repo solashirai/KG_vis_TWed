@@ -41,8 +41,10 @@ wd:instanceof with rdf:type).
 
 ## Tools
 
-Each tool included in this demonstration has a corresponding folder with its own README and tool details. A rough 
-breakdown of each tool is included in the following table. For each column, `+` generally indicates positive attitude
+Each tool included in this demonstration has a corresponding folder with its own README and tool details (and, if 
+required, some additional scripts to make it work).
+A rough breakdown of each tool is included in the following table.
+For each column, `+` generally indicates positive attitude
  for a tool, `-` indicates negative attitude, and `~` indicates some qualified strengths or existence of tradeoffs.
  
 Whereever possible, I also am focused on the perspective of using Python for these tools.
@@ -55,7 +57,7 @@ Whereever possible, I also am focused on the perspective of using Python for the
 | GraphDB | ~ | + | ~ | + | - | TODO |
 | sigma.js | x | x | x | x | x | TODO |
 | Graphviz | x | x | x | x | x | TODO |
-| Neo4J | x | x | x | x | x | TODO |
+| Neo4J | ~ | - | + | + | - | Not suitable for RDF data |
 | Ontograph (Protege) | x | x | x | x | x | TODO |
 | OntoViz (Protege) | x | x | x | x | x | TODO |
 | yWorks | x | x | x | x | x | TODO |
