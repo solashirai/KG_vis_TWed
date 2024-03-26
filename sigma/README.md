@@ -18,6 +18,10 @@ For ipysigma, a convenient way to do this is to go from RDF graphs to [networkx]
 
 ## Instructions
 
+This demo will assume the use of networkx and ipysigma in a jupyter notebook.
+`pip install networkx`
+`pip install ipysigma`
+
 The main methods that I'll discuss in this demo are to (1) convert your KG from a rdflib graph to a networkx graph, and
 (2) set some simple options to display the graph via sigma.
 

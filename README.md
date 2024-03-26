@@ -60,8 +60,8 @@ Whereever possible, I also am focused on the perspective of using Python for the
 | Neo4J | ~ | - | + | + | - | Not suitable for RDF data |
 | Ontograph (Protege) | ~ | + | ~ | ~ | - | Assumes ontology-like class structure, browsing capabilities seem limited |
 | OWLViz (Protege) | - | + | - | - | - | Seems to be broken on windows |
-| yWorks (yEd) | x | x | x | x | x | TODO |
-| Cytoscape | x | x | x | x | x | TODO |
+| yWorks (yEd) | - | - | + | - | ~ | Much more manual effort than I expected |
+| Cytoscape | ~ | - | + | + | + | Another effort-required to format and customize, but powerful, option |
 | Gephi | x | x | x | x | x | TODO |
 
 This list is certainly not extensive -- there are many works out there that can be used to visualize graphs more 
