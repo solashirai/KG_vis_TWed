@@ -54,13 +54,13 @@ Whereever possible, I also am focused on the perspective of using Python for the
 | Powerpoint | - | - | - | - | + | 100% manual effort |
 | draw.io | - | - | - | - | + | Mostly manual effort, some importing possible |
 | WebVOWL | ~ | ~ | + | + | - | Mainly aimed at ontology visualization |
-| GraphDB | ~ | + | ~ | + | - | TODO |
+| GraphDB | ~ | + | ~ | + | - | Well compatible with RDF, not the most visually appealing |
 | sigma.js | x | x | x | x | x | TODO |
 | Graphviz | x | x | x | x | x | TODO |
 | Neo4J | ~ | - | + | + | - | Not suitable for RDF data |
-| Ontograph (Protege) | x | x | x | x | x | TODO |
-| OntoViz (Protege) | x | x | x | x | x | TODO |
-| yWorks | x | x | x | x | x | TODO |
+| Ontograph (Protege) | ~ | + | ~ | ~ | - | Assumes ontology-like class structure, browsing capabilities seem limited |
+| OWLViz (Protege) | - | + | - | - | - | Seems to be broken on windows |
+| yWorks (yEd) | x | x | x | x | x | TODO |
 | Cytoscape | x | x | x | x | x | TODO |
 | Gephi | x | x | x | x | x | TODO |
 
