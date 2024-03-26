@@ -50,19 +50,19 @@ For each column, `+` generally indicates positive attitude
 Whereever possible, I also am focused on the perspective of using Python for these tools.
 
 | Tool | Effort Required | Supports RDF | Automated Formatting | Interactive | Customizable | Notes | 
-| - |  | - | - | - | - | - |
-| Powerpoint | - | - | - | - | + | 100% manual effort |
-| draw.io | - | - | - | - | + | Mostly manual effort, some importing possible |
-| WebVOWL | ~ | ~ | + | + | - | Mainly aimed at ontology visualization |
-| GraphDB | ~ | + | ~ | + | - | Well compatible with RDF, not the most visually appealing |
-| sigma.js (via rdf->networkx) | ~ | - | + | + | + | Some effort needed to convert RDF to suitable format, more intended for applications |
-| Graphviz (via rdf->dot) | ~ | - | + | - | + | Powerful customization options, effort needed to convert RDF |
-| Neo4J | ~ | - | + | + | - | Not suitable for RDF data |
-| Ontograph (Protege) | ~ | + | ~ | ~ | - | Assumes ontology-like class structure, browsing capabilities seem limited |
-| OWLViz (Protege) | - | + | - | - | - | Seems to be broken on windows |
-| yWorks (yEd) | - | - | + | - | ~ | Much more manual effort than I expected |
-| Cytoscape | ~ | - | + | + | + | Another effort-required to format and customize, but powerful, option |
-| Gephi | x | x | x | x | x | TODO |
+| - |-----------------| - | - | - | - | - |
+| Powerpoint | -               | - | - | - | + | 100% manual effort |
+| draw.io | -               | - | - | - | + | Mostly manual effort, some importing possible |
+| WebVOWL | ~               | ~ | + | + | - | Mainly aimed at ontology visualization |
+| GraphDB | ~               | + | ~ | + | - | Well compatible with RDF, not the most visually appealing |
+| sigma.js (via rdf->networkx) | ~               | - | + | + | + | Some effort needed to convert RDF to suitable format, more intended for applications |
+| Graphviz (via rdf->dot) | ~               | - | + | - | + | Powerful customization options, effort needed to convert RDF |
+| Neo4J | ~               | - | + | + | - | Not suitable for RDF data |
+| Ontograph (Protege) | ~               | + | ~ | ~ | - | Assumes ontology-like class structure, browsing capabilities seem limited |
+| OWLViz (Protege) | -               | + | - | - | - | Seems to be broken on windows |
+| yWorks (yEd) | -               | - | + | - | ~ | Much more manual effort than I expected |
+| Cytoscape | ~               | - | + | + | + | Another effort-required to format and customize, but powerful, option |
+| Gephi | x               | x | x | x | x | TODO |
 
 This list is certainly not extensive -- there are many works out there that can be used to visualize graphs more 
 generally, especially when they are set up in common graph formats such as those used by DOT, networkx, or igraph. 
