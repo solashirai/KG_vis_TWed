@@ -50,13 +50,13 @@ For each column, `+` generally indicates positive attitude
 Whereever possible, I also am focused on the perspective of using Python for these tools.
 
 | Tool | Effort Required | Supports RDF | Automated Formatting | Interactive | Customizable | Notes | 
-| - | - | - | - | - | - | - |
+| - |  | - | - | - | - | - |
 | Powerpoint | - | - | - | - | + | 100% manual effort |
 | draw.io | - | - | - | - | + | Mostly manual effort, some importing possible |
 | WebVOWL | ~ | ~ | + | + | - | Mainly aimed at ontology visualization |
 | GraphDB | ~ | + | ~ | + | - | TODO |
 | sigma.js | x | x | x | x | x | TODO |
-| Graphviz | x | x | x | x | x | TODO |
+| Graphviz | ~ | - | + | - | + | Powerful customization options, effort needed to convert RDF |
 | Neo4J | ~ | - | + | + | - | Not suitable for RDF data |
 | Ontograph (Protege) | x | x | x | x | x | TODO |
 | OntoViz (Protege) | x | x | x | x | x | TODO |
