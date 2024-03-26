@@ -1,5 +1,6 @@
 @prefix ns1: <http://www.wikidata.org/prop/direct/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://www.wikidata.org/entity/Q111015277> rdfs:label "2022 anti-war protests in Russia" ;
     ns1:P17 <http://www.wikidata.org/entity/Q159> ;
