@@ -60,7 +60,7 @@ Whereever possible, I also am focused on the perspective of using Python for the
 | [Neo4J](neo4j/)                        | ~               | -            | +                    | +           | -            | Not suitable for RDF data                                                            |
 | Ontograph (Protege)                    | ~               | +            | ~                    | ~           | -            | Assumes ontology-like class structure, browsing capabilities seem limited            |
 | OWLViz (Protege)                       | -               | +            | -                    | -           | -            | Seems to be broken on windows                                                        |
-| yWorks (yEd)                           | -               | -            | +                    | ~           | ~            | Much more manual effort than I expected                                              |
+| [yWorks (yEd)](yed/)                   | -               | -            | +                    | ~           | ~            | Much more manual effort than I expected. Nice auto layouts                           |
 | [Cytoscape](cytoscape/)                | ~               | -            | +                    | +           | +            | Another effort-required to format and customize, but powerful, option                |
 | Gephi                                  | x               | x            | x                    | x           | x            | TODO                                                                                 |
 
