@@ -1,0 +1,41 @@
+digraph {
+	node2 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P530</font> > ] ;
+	node0 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node3 -> node5 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P530</font> > ] ;
+	node6 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node7 -> node3 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node6 -> node8 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node6 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node7 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node0 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node5 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P530</font> > ] ;
+	node3 -> node2 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P530</font> > ] ;
+	node4 -> node2 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P530</font> > ] ;
+	node8 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+# http://www.wikidata.org/entity/Q111015277 node0
+node0 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2022 anti-war protests in Russia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q111015277' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q111015277</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q273120 node1
+node1 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>protest</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q273120' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q273120</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q822 node2
+node2 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Lebanon</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q822' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q822</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q794 node3
+node3 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Iran</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q794' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q794</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q159 node4
+node4 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Russia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q159' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q159</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q408 node5
+node5 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Australia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q408' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q408</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/ex12 node6
+node6 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Cause Event</B></td></tr><tr><td href='http://www.wikidata.org/entity/ex12' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/ex12</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q5484 node7
+node7 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Caspian Sea</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q5484' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q5484</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/EFFECT_EVENT node8
+node8 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Effect Event</B></td></tr><tr><td href='http://www.wikidata.org/entity/EFFECT_EVENT' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/EFFECT_EVENT</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P17 node9
+node9 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>country</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P17' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P17</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P31 node10
+node10 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>instance of</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P31' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P31</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P530 node11
+node11 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>diplomatic relation</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P530' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P530</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1542 node12
+node12 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>has effect</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1542' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1542</font></td></tr></table> > ]
+}

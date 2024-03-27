@@ -1,0 +1,788 @@
+digraph {
+	node4 -> node5 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P973</font> > ] ;
+	node4 -> node7 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node9 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1424</font> > ] ;
+	node4 -> node12 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node14 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node15 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node17 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node18 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node19 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node21 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P7867</font> > ] ;
+	node13 -> node22 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node27 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node28 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node29 -> node30 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P828</font> > ] ;
+	node4 -> node23 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P495</font> > ] ;
+	node4 -> node34 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1846</font> > ] ;
+	node4 -> node35 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node37 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P5008</font> > ] ;
+	node4 -> node38 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node39 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P948</font> > ] ;
+	node4 -> node40 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node43 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node44 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node45 -> node46 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node47 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node48 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node49 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node50 -> node32 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node51 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1427</font> > ] ;
+	node4 -> node56 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node57 -> node58 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P131</font> > ] ;
+	node50 -> node59 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P131</font> > ] ;
+	node4 -> node60 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1889</font> > ] ;
+	node30 -> node62 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node4 -> node63 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P5008</font> > ] ;
+	node4 -> node64 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node70 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node30 -> node72 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node4 -> node73 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node74 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node77 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node80 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P2716</font> > ] ;
+	node4 -> node82 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node84 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node87 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node81 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node45 -> node69 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node89 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node52 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node92 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node93 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node94 -> node95 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node1 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node96 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node99 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node100 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node45 -> node103 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node105 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node108 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node88 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node109 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node101 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node110 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node112 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P138</font> > ] ;
+	node29 -> node113 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node30 -> node117 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node4 -> node118 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node119 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node57 -> node123 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node125 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node53 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node115 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node45 -> node42 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node128 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node79 -> node73 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node132 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node133 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node130 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node134 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node135 -> node45 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P828</font> > ] ;
+	node4 -> node137 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node138 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P828</font> > ] ;
+	node4 -> node140 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P443</font> > ] ;
+	node94 -> node13 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P828</font> > ] ;
+	node4 -> node141 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node143 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node145 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node120 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node147 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node55 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node10 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node149 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node79 -> node50 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node150 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node151 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node153 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node45 -> node152 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node24 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node155 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node156 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node78 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node158 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node67 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node161 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node162 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node122 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node167 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node168 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node171 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node172 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node173 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node102 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node176 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node178 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node68 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node13 -> node180 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node57 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node181 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node184 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node185 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node186 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node187 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node188 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node154 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node79 -> node152 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node157 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node164 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1889</font> > ] ;
+	node4 -> node193 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node98 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node57 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node114 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node195 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node29 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node11 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node200 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node6 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node165 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node20 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node203 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node204 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1151</font> > ] ;
+	node4 -> node206 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node207 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node210 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node95 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node131 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node212 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node13 -> node205 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node13 -> node95 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node215 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node201 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node135 -> node219 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P155</font> > ] ;
+	node4 -> node202 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node57 -> node4 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P828</font> > ] ;
+	node79 -> node63 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P5008</font> > ] ;
+	node4 -> node146 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node50 -> node73 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node50 -> node63 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P5008</font> > ] ;
+	node4 -> node139 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node221 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node104 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node50 -> node222 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P361</font> > ] ;
+	node4 -> node191 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P2354</font> > ] ;
+	node4 -> node225 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node136 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node226 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node4 -> node138 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1478</font> > ] ;
+	node4 -> node227 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node228 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node30 -> node217 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node45 -> node229 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node76 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node10 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node231 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P2354</font> > ] ;
+	node4 -> node33 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node160 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node232 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P910</font> > ] ;
+	node135 -> node233 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P154</font> > ] ;
+	node4 -> node126 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node196 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node169 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node170 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node79 -> node16 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1299</font> > ] ;
+	node4 -> node192 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node73 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node199 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node208 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node13 -> node241 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P361</font> > ] ;
+	node4 -> node238 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node45 -> node194 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node216 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node57 -> node37 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P5008</font> > ] ;
+	node4 -> node54 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P910</font> > ] ;
+	node30 -> node242 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node50 -> node166 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P793</font> > ] ;
+	node4 -> node163 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node243 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node235 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node245 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node10 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node135 -> node142 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node36 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node247 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node129 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node175 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node250 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node13 -> node107 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node86 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node106 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node46 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node94 -> node254 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node4 -> node220 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node198 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node255 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node65 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node4 -> node183 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node16 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1343</font> > ] ;
+	node4 -> node248 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node2 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node127 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node135 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node50 -> node59 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node4 -> node256 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node209 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node13 -> node152 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P31</font> > ] ;
+	node79 -> node258 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P138</font> > ] ;
+	node13 -> node31 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P910</font> > ] ;
+	node4 -> node179 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node237 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P2184</font> > ] ;
+	node4 -> node144 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node29 -> node239 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P828</font> > ] ;
+	node50 -> node244 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P527</font> > ] ;
+	node13 -> node94 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node111 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node50 -> node79 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P828</font> > ] ;
+	node4 -> node116 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node79 -> node214 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P361</font> > ] ;
+	node4 -> node224 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node230 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node253 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node159 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node45 -> node135 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node218 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node41 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1542</font> > ] ;
+	node4 -> node211 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node30 -> node174 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node79 -> node112 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P276</font> > ] ;
+	node30 -> node85 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P710</font> > ] ;
+	node30 -> node246 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P910</font> > ] ;
+	node4 -> node240 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node45 -> node0 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node263 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P2716</font> > ] ;
+	node4 -> node261 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+	node4 -> node138 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P1889</font> > ] ;
+	node4 -> node251 [ color=BLACK, label=< <font point-size='10' color='#336633'>ns1:P17</font> > ] ;
+# http://www.wikidata.org/entity/Q298 node0
+node0 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Chile</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q298' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q298</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q96175652 node1
+node1 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>economic impact of the COVID-19 pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q96175652' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q96175652</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q826 node2
+node2 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Maldives</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q826' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q826</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1478 node3
+node3 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>has immediate cause</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1478' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1478</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q81068910 node4
+node4 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19 pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q81068910' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q81068910</font></td></tr></table> > ]
+# https://www.who.int/emergencies/diseases/novel-coronavirus-2019 node5
+node5 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>novel-coronavirus-2019</B></td></tr><tr><td href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>https://www.who.int/emergencies/diseases/novel-coronavirus-2019</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q804 node6
+node6 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Panama</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q804' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q804</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q88323877 node7
+node7 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>closing of educational institutions</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q88323877' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q88323877</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P2184 node8
+node8 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>history of topic</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P2184' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P2184</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q83761248 node9
+node9 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Template:COVID-19 pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q83761248' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q83761248</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q794 node10
+node10 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Iran</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q794' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q794</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q79 node11
+node11 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Egypt</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q79' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q79</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q27949697 node12
+node12 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Wikibase reason for deprecated rank</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q27949697' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q27949697</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q242864 node13
+node13 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Bahraini protests of 2011</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q242864' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q242864</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q408 node14
+node14 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Australia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q408' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q408</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q155 node15
+node15 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Brazil</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q155' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q155</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q20966464 node16
+node16 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Winter on Fire: Ukraine&#x27;s Fight for Freedom</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q20966464' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q20966464</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q20 node17
+node17 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Norway</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q20' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q20</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q235 node18
+node18 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Monaco</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q235' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q235</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q792 node19
+node19 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>El Salvador</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q792' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q792</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q28 node20
+node20 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Hungary</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q28' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q28</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q84136170 node21
+node21 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q84136170</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q84136170' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q84136170</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q8059283 node22
+node22 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>youth activism</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q8059283' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q8059283</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q884 node23
+node23 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>South Korea</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q884' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q884</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q96210090 node24
+node24 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>MLS is Back Tournament</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q96210090' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q96210090</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1889 node25
+node25 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>different from</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1889' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1889</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P154 node26
+node26 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>logo image</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P154' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P154</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q878 node27
+node27 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>United Arab Emirates</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q878' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q878</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q403 node28
+node28 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Serbia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q403' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q403</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1925730 node29
+node29 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>1979 energy crisis</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1925730' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1925730</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q126065 node30
+node30 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Iranian Revolution</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q126065' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q126065</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q6907158 node31
+node31 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Category:Bahraini uprising of 2011</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q6907158' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q6907158</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q180684 node32
+node32 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>conflict</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q180684' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q180684</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q148 node33
+node33 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>People&#x27;s Republic of China</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q148' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q148</font></td></tr></table> > ]
+# http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20Outbreak%20World%20Map%20per%20Capita.svg node34
+node34 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19%20Outbreak%20World%20Map%20per%20Capita.svg</B></td></tr><tr><td href='http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20Outbreak%20World%20Map%20per%20Capita.svg' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20Outbreak%20World%20Map%20per%20Capita.svg</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q811 node35
+node35 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Nicaragua</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q811' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q811</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q917 node36
+node36 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Bhutan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q917' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q917</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q87748614 node37
+node37 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>WikiProject COVID-19</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q87748614' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q87748614</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q851 node38
+node38 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Saudi Arabia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q851' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q851</font></td></tr></table> > ]
+# http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20banner%20Hand%20sanitizer.jpg node39
+node39 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19%20banner%20Hand%20sanitizer.jpg</B></td></tr><tr><td href='http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20banner%20Hand%20sanitizer.jpg' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20banner%20Hand%20sanitizer.jpg</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q224 node40
+node40 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Croatia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q224' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q224</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q102232426 node41
+node41 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>The Great Reset</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q102232426' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q102232426</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q223625 node42
+node42 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>curfew</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q223625' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q223625</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q801 node43
+node43 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Israel</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q801' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q801</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q11746 node44
+node44 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Wuhan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q11746' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q11746</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q71500435 node45
+node45 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2019–21 Chilean protests</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q71500435' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q71500435</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q175331 node46
+node46 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>demonstration</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q175331' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q175331</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q145 node47
+node47 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>United Kingdom</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q145' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q145</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q227 node48
+node48 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Azerbaijan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q227' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q227</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q734 node49
+node49 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Guyana</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q734' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q734</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q19429010 node50
+node50 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2014 Odessa clashes</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q19429010' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q19429010</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q83264280 node51
+node51 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q83264280</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q83264280' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q83264280</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q15733401 node52
+node52 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Revolution of Dignity</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q15733401' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q15733401</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q159 node53
+node53 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Russia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q159' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q159</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q83189805 node54
+node54 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Category:COVID-19 pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q83189805' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q83189805</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q221 node55
+node55 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>North Macedonia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q221' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q221</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q664 node56
+node56 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>New Zealand</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q664' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q664</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q83554783 node57
+node57 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Huoshenshan Hospital</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q83554783' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q83554783</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1025837 node58
+node58 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Caidian District</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1025837' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1025837</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1874 node59
+node59 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Odessa</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1874' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1874</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q84263196 node60
+node60 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q84263196' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q84263196</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P2716 node61
+node61 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>montage image</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P2716' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P2716</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q6370654 node62
+node62 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Karim Sanjabi</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q6370654' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q6370654</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q10780973 node63
+node63 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>WikiProject Ukraine</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q10780973' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q10780973</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q211 node64
+node64 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Latvia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q211' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q211</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q38823 node65
+node65 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ruhollah Khomeini</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q38823' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q38823</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P155 node66
+node66 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>follows</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P155' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P155</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q214 node67
+node67 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Slovakia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q214' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q214</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q183 node68
+node68 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Germany</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q183' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q183</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1880 node69
+node69 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Concepción</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1880' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1880</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q2472587 node70
+node70 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>people</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q2472587' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q2472587</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P443 node71
+node71 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>pronunciation audio</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P443' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P443</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q471787 node72
+node72 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Shapour Bakhtiar</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q471787' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q471787</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q212 node73
+node73 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ukraine</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q212' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q212</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q228 node74
+node74 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Andorra</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q228' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q228</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1299 node75
+node75 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>depicted by</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1299' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1299</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q843 node76
+node76 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Pakistan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q843' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q843</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q800 node77
+node77 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Costa Rica</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q800' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q800</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q107487626 node78
+node78 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2021 Cuban protests</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q107487626' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q107487626</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q15224558 node79
+node79 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Euromaidan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q15224558' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q15224558</font></td></tr></table> > ]
+# http://commons.wikimedia.org/wiki/Special:FilePath/Euromaidan%20collage.jpg node80
+node80 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Euromaidan%20collage.jpg</B></td></tr><tr><td href='http://commons.wikimedia.org/wiki/Special:FilePath/Euromaidan%20collage.jpg' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://commons.wikimedia.org/wiki/Special:FilePath/Euromaidan%20collage.jpg</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q142 node81
+node81 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>France</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q142' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q142</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q423 node82
+node82 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>North Korea</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q423' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q423</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P7867 node83
+node83 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>category for maps</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P7867' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P7867</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q21203 node84
+node84 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Aruba</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q21203' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q21203</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q128245 node85
+node85 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Mohammad Reza Pahlavi</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q128245' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q128245</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q842 node86
+node86 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Oman</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q842' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q842</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1246 node87
+node87 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Kosovo</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1246' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1246</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q717 node88
+node88 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Venezuela</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q717' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q717</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q730 node89
+node89 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Suriname</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q730' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q730</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P31 node90
+node90 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>instance of</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P31' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P31</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P828 node91
+node91 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>has cause</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P828' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P828</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q215 node92
+node92 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Slovenia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q215' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q215</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q258 node93
+node93 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>South Africa</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q258' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q258</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q16146608 node94
+node94 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Destruction of Shia mosques during the 2011 Bahraini uprising</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q16146608' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q16146608</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q398 node95
+node95 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Bahrain</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q398' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q398</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q85173778 node96
+node96 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19 misinformation</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q85173778' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q85173778</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P138 node97
+node97 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>named after</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P138' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P138</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q88815228 node98
+node98 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Coronavirus Aid, Relief, and Economic Security Act</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q88815228' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q88815228</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q86521237 node99
+node99 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19 pandemic in Asia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q86521237' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q86521237</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q238 node100
+node100 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>San Marino</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q238' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q238</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q945 node101
+node101 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Togo</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q945' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q945</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1037 node102
+node102 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Rwanda</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1037' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1037</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q2887 node103
+node103 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Santiago</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q2887' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q2887</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q10931 node104
+node104 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>revolution</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q10931' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q10931</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q86694210 node105
+node105 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2020 COVID-19 pandemic in Oceania</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q86694210' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q86694210</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q736 node106
+node106 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ecuador</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q736' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q736</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q47217 node107
+node107 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>civil disobedience</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q47217' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q47217</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q87406428 node108
+node108 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2020 COVID-19 pandemic in the Americas</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q87406428' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q87406428</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q217 node109
+node109 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Moldova</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q217' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q217</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q902 node110
+node110 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Bangladesh</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q902' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q902</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q262 node111
+node111 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Algeria</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q262' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q262</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q863759 node112
+node112 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Maidan Nezalezhnosti</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q863759' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q863759</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q4574284 node113
+node113 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>1970s energy crisis</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q4574284' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q4574284</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q233 node114
+node114 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Malta</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q233' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q233</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q33 node115
+node115 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Finland</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q33' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q33</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q45 node116
+node116 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Portugal</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q45' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q45</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q5556852 node117
+node117 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Gholam Ali Oveisi</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q5556852' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q5556852</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q87866152 node118
+node118 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19 pandemic lockdown</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q87866152' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q87866152</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q31 node119
+node119 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Belgium</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q31' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q31</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q96 node120
+node120 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Mexico</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q96' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q96</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P2354 node121
+node121 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>has list</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P2354' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P2354</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q86458103 node122
+node122 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19 pandemic in Europe</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q86458103' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q86458103</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q16917 node123
+node123 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>hospital</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q16917' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q16917</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P793 node124
+node124 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>significant event</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P793' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P793</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q399 node125
+node125 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Armenia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q399' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q399</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q17 node126
+node126 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Japan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q17' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q17</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q37 node127
+node127 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Lithuania</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q37' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q37</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q12184 node128
+node128 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q12184' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q12184</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q219060 node129
+node129 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>State of Palestine</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q219060' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q219060</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q30 node130
+node130 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>United States of America</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q30' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q30</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1050 node131
+node131 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Eswatini</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1050' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1050</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q854 node132
+node132 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Sri Lanka</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q854' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q854</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q114 node133
+node133 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Kenya</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q114' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q114</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q27 node134
+node134 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Republic of Ireland</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q27' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q27</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q75072406 node135
+node135 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Chilean national plebiscite, 2020</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q75072406' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q75072406</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q757 node136
+node136 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Saint Vincent and the Grenadines</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q757' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q757</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q419 node137
+node137 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Peru</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q419' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q419</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q82069695 node138
+node138 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>SARS-CoV-2</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q82069695' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q82069695</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q25279 node139
+node139 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Curaçao</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q25279' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q25279</font></td></tr></table> > ]
+# http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-pand%C3%A9mie%20de%20Covid-19.wav node140
+node140 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-pand%C3%A9mie%20de%20Covid-19.wav</B></td></tr><tr><td href='http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-pand%C3%A9mie%20de%20Covid-19.wav' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-pand%C3%A9mie%20de%20Covid-19.wav</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q55 node141
+node141 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Netherlands</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q55' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q55</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q43109 node142
+node142 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>referendum</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q43109' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q43109</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q225 node143
+node143 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Bosnia and Herzegovina</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q225' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q225</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q750 node144
+node144 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Bolivia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q750' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q750</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1006 node145
+node145 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Guinea</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1006' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1006</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q241 node146
+node146 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Cuba</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q241' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q241</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q83766264 node147
+node147 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q83766264</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q83766264' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q83766264</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P527 node148
+node148 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>has part(s)</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P527' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P527</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1255284 node149
+node149 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q1255284</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1255284' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1255284</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q77 node150
+node150 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Uruguay</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q77' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q77</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q41 node151
+node151 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Greece</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q41' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q41</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q273120 node152
+node152 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>protest</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q273120' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q273120</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q921 node153
+node153 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Brunei</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q921' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q921</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q951044 node154
+node154 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Jafar Sharif-Emami</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q951044' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q951044</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q928 node155
+node155 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Philippines</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q928' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q928</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q781 node156
+node156 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Antigua and Barbuda</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q781' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q781</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q846 node157
+node157 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Qatar</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q846' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q846</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q783 node158
+node158 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Honduras</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q783' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q783</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q40 node159
+node159 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Austria</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q40' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q40</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q837 node160
+node160 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Nepal</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q837' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q837</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q711 node161
+node161 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Mongolia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q711' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q711</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q86694873 node162
+node162 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q86694873</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q86694873' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q86694873</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q668 node163
+node163 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>India</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q668' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q668</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1368440 node164
+node164 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Persian Constitutional Revolution</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1368440' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1368440</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q232 node165
+node165 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Kazakhstan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q232' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q232</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q16744588 node166
+node166 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Massacre in Odessa</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q16744588' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q16744588</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q3241045 node167
+node167 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>disease outbreak</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q3241045' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q3241045</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q36 node168
+node168 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Poland</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q36' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q36</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q189 node169
+node169 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Iceland</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q189' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q189</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q96354847 node170
+node170 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>impact of the COVID-19 pandemic on culture and entertainment</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q96354847' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q96354847</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q90297029 node171
+node171 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2020 toilet paper shortage</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q90297029' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q90297029</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q833 node172
+node172 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Malaysia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q833' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q833</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q34 node173
+node173 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Sweden</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q34' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q34</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q382369 node174
+node174 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Mehdi Bazargan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q382369' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q382369</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1028 node175
+node175 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Morocco</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1028' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1028</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1049 node176
+node176 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Sudan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1049' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1049</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P495 node177
+node177 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>country of origin</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P495' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P495</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1025 node178
+node178 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Mauritania</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1025' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1025</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q219 node179
+node179 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Bulgaria</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q219' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q219</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q124734 node180
+node180 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>rebellion</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q124734' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q124734</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q948 node181
+node181 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Tunisia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q948' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q948</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P910 node182
+node182 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>topic&#x27;s main category</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P910' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P910</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q222 node183
+node183 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Albania</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q222' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q222</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1036897 node184
+node184 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>panic buying</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1036897' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1036897</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q424 node185
+node185 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Cambodia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q424' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q424</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q252 node186
+node186 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Indonesia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q252' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q252</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q229 node187
+node187 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Cyprus</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q229' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q229</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q796 node188
+node188 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Iraq</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q796' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q796</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P973 node189
+node189 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>described at URL</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P973' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P973</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P131 node190
+node190 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>located in the administrative territorial entity</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P131' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P131</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q83741704 node191
+node191 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19 pandemic by country and territory</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q83741704' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q83741704</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q213 node192
+node192 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Czech Republic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q213' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q213</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q774 node193
+node193 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Guatemala</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q774' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q774</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q33986 node194
+node194 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Valparaíso</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q33986' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q33986</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q760 node195
+node195 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Saint Lucia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q760' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q760</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q686984 node196
+node196 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>civil disorder</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q686984' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q686984</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1427 node197
+node197 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>start point</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1427' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1427</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q869 node198
+node198 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Thailand</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q869' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q869</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q14773 node199
+node199 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Macau</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q14773' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q14773</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q218 node200
+node200 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Romania</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q218' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q218</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q96246183 node201
+node201 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>response to the COVID-19 pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q96246183' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q96246183</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q733 node202
+node202 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Paraguay</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q733' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q733</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1009 node203
+node203 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Cameroon</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1009' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1009</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q87829288 node204
+node204 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q87829288</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q87829288' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q87829288</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q3109572 node205
+node205 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>civil resistance</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q3109572' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q3109572</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q347 node206
+node206 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Liechtenstein</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q347' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q347</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q39 node207
+node207 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Switzerland</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q39' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q39</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q881 node208
+node208 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Vietnam</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q881' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q881</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q574 node209
+node209 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>East Timor</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q574' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q574</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q865 node210
+node210 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Taiwan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q865' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q865</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q754 node211
+node211 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Trinidad and Tobago</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q754' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q754</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q889 node212
+node212 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Afghanistan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q889' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q889</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P5008 node213
+node213 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>on focus list of Wikimedia project</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P5008' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P5008</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q16918333 node214
+node214 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ukrainian crisis 2013</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q16918333' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q16918333</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q414 node215
+node215 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Argentina</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q414' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q414</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q32 node216
+node216 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Luxembourg</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q32' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q32</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q289766 node217
+node217 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Dariush Forouhar</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q289766' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q289766</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1033 node218
+node218 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Nigeria</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1033' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1033</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q5098807 node219
+node219 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q5098807</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q5098807' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q5098807</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q16 node220
+node220 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Canada</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q16' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q16</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q38 node221
+node221 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Italy</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q38' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q38</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q15860072 node222
+node222 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Russo-Ukrainian War</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q15860072' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q15860072</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P276 node223
+node223 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>location</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P276' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P276</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q237 node224
+node224 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Vatican City</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q237' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q237</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q89453779 node225
+node225 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2020 COVID-19 pandemic in Antarctica</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q89453779' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q89453779</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q98777187 node226
+node226 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q98777187</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q98777187' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q98777187</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q184 node227
+node227 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Belarus</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q184' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q184</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q17076801 node228
+node228 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>public health emergency of international concern</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q17076801' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q17076801</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q3113635 node229
+node229 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q3113635</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q3113635' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q3113635</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q29 node230
+node230 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Spain</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q29' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q29</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q90290885 node231
+node231 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>list of healthcare workers who died during COVID-19 outbreak</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q90290885' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q90290885</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q15262078 node232
+node232 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Category:Euromaidan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q15262078' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q15262078</font></td></tr></table> > ]
+# http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Plebiscito%20Nacional%202020%20-%20SERVEL.png node233
+node233 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Logo%20Plebiscito%20Nacional%202020%20-%20SERVEL.png</B></td></tr><tr><td href='http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Plebiscito%20Nacional%202020%20-%20SERVEL.png' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Plebiscito%20Nacional%202020%20-%20SERVEL.png</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1151 node234
+node234 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>topic&#x27;s main Wikimedia portal</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1151' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1151</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q810 node235
+node235 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Jordan</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q810' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q810</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1343 node236
+node236 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>described by source</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1343' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1343</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q83493517 node237
+node237 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Timeline of the COVID-19 pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q83493517' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q83493517</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q35 node238
+node238 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Denmark</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q35' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q35</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q82664 node239
+node239 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Iran–Iraq War</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q82664' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q82664</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q786 node240
+node240 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Dominican Republic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q786' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q786</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q33761 node241
+node241 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Arab Spring</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q33761' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q33761</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q700668 node242
+node242 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Q700668</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q700668' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q700668</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q817 node243
+node243 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Kuwait</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q817' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q817</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q16744102 node244
+node244 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>2 May 2014 Odessa clashes</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q16744102' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q16744102</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q85872065 node245
+node245 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>social impact of the COVID-19 pandemic</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q85872065' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q85872065</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q8552767 node246
+node246 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Category:Iranian Revolution</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q8552767' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q8552767</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q43 node247
+node247 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Turkey</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q43' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q43</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q822 node248
+node248 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Lebanon</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q822' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q822</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P710 node249
+node249 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>participant</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P710' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P710</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q739 node250
+node250 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Colombia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q739' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q739</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q766 node251
+node251 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Jamaica</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q766' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q766</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P361 node252
+node252 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>part of</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P361' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P361</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q191 node253
+node253 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Estonia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q191' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q191</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q331483 node254
+node254 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>demolition</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q331483' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q331483</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q230 node255
+node255 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Georgia</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q230' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q230</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q334 node256
+node256 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Singapore</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q334' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q334</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P17 node257
+node257 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>country</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P17' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P17</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q12163419 node258
+node258 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Ukraine–European Union Association Agreement</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q12163419' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q12163419</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P948 node259
+node259 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>page banner</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P948' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P948</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1846 node260
+node260 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>distribution map</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1846' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1846</font></td></tr></table> > ]
+# http://www.wikidata.org/entity/Q1041 node261
+node261 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>Senegal</B></td></tr><tr><td href='http://www.wikidata.org/entity/Q1041' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/entity/Q1041</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1424 node262
+node262 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>topic&#x27;s main template</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1424' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1424</font></td></tr></table> > ]
+# http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20pandemic%20collage.jpg node263
+node263 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>COVID-19%20pandemic%20collage.jpg</B></td></tr><tr><td href='http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20pandemic%20collage.jpg' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://commons.wikimedia.org/wiki/Special:FilePath/COVID-19%20pandemic%20collage.jpg</font></td></tr></table> > ]
+# http://www.wikidata.org/prop/direct/P1542 node264
+node264 [ shape=none, color=black label=< <table color='#666666' cellborder='0' cellspacing='0' border='1'><tr><td colspan='2' bgcolor='grey'><B>has effect</B></td></tr><tr><td href='http://www.wikidata.org/prop/direct/P1542' bgcolor='#eeeeee' colspan='2'><font point-size='10' color='#6666ff'>http://www.wikidata.org/prop/direct/P1542</font></td></tr></table> > ]
+}
