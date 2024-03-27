@@ -51,8 +51,8 @@ Whereever possible, I also am focused on the perspective of using Python for the
 
 | Tool                                   | Effort Required | Supports RDF | Automated Formatting | Interactive | Customizable | Notes                                                                                | 
 |----------------------------------------|-----------------|--------------|----------------------|-------------|--------------|--------------------------------------------------------------------------------------|
-| Powerpoint                             | -               | -            | -                    | -           | +            | 100% manual effort                                                                   |
-| draw.io                                | -               | -            | -                    | -           | +            | Mostly manual effort, some importing possible                                        |
+| Powerpoint                             | -               | -            | -                    | ~           | +            | 100% manual effort                                                                   |
+| draw.io                                | -               | -            | -                    | ~           | +            | Mostly manual effort, some importing possible                                        |
 | WebVOWL                                | ~               | ~            | +                    | +           | -            | Mainly aimed at ontology visualization                                               |
 | [GraphDB](graphdb/)                    | ~               | +            | ~                    | +           | -            | Well compatible with RDF, not the most visually appealing                            |
 | [sigma.js (via rdf->networkx)](sigma/) | ~               | -            | +                    | +           | +            | Some effort needed to convert RDF to suitable format, more intended for applications |
@@ -60,7 +60,7 @@ Whereever possible, I also am focused on the perspective of using Python for the
 | [Neo4J](neo4j/)                        | ~               | -            | +                    | +           | -            | Not suitable for RDF data                                                            |
 | Ontograph (Protege)                    | ~               | +            | ~                    | ~           | -            | Assumes ontology-like class structure, browsing capabilities seem limited            |
 | OWLViz (Protege)                       | -               | +            | -                    | -           | -            | Seems to be broken on windows                                                        |
-| yWorks (yEd)                           | -               | -            | +                    | -           | ~            | Much more manual effort than I expected                                              |
+| yWorks (yEd)                           | -               | -            | +                    | ~           | ~            | Much more manual effort than I expected                                              |
 | [Cytoscape](cytoscape/)                | ~               | -            | +                    | +           | +            | Another effort-required to format and customize, but powerful, option                |
 | Gephi                                  | x               | x            | x                    | x           | x            | TODO                                                                                 |
 
