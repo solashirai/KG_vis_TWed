@@ -62,7 +62,7 @@ Whereever possible, I also am focused on the perspective of using Python for the
 | OWLViz (Protege)                       | -               | +            | -                    | -           | -            | Seems to be broken on windows                                                        |
 | [yWorks (yEd)](yed/)                   | -               | -            | +                    | ~           | ~            | Much more manual effort than I expected. Nice auto layouts                           |
 | [Cytoscape](cytoscape/)                | ~               | -            | +                    | +           | +            | Another effort-required to format and customize, but powerful, option                |
-| Gephi                                  | ~               | -            | ~                    | ~           | ~            | Importing different formats of graph data seems more difficult                       |
+| [Gephi](gephi/)                        | ~               | -            | ~                    | ~           | ~            | Importing different formats of graph data seems more difficult                       |
 
 This list is certainly not extensive -- there are many works out there that can be used to visualize graphs more 
 generally, especially when they are set up in common graph formats such as those used by DOT, networkx, or igraph. 
